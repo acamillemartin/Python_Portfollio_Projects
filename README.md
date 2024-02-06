@@ -9,4 +9,5 @@
 
 ## Exploratory Data Analysis
 
-- Project 1 
+- Project 1
+- ### [Analysis of Los Angeles Crimes]
